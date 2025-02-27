@@ -91,3 +91,28 @@ if st.button("🔍 Find Travel Options"):
 
     else:
         st.warning("⚠️ Please enter both source and destination locations.")
+
+
+
+# Footer Section
+st.markdown(
+    """
+    <style>
+        .footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+            color: #333333;
+            font-weight: bold;
+            border-top: 2px solid #cccccc;
+        }
+    </style>
+    <div class="footer">
+        Created by Yashwanth 🚀
+    </div>
+    """,
+    unsafe_allow_html=True
+)
