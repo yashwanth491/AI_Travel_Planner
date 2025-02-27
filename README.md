@@ -7,9 +7,6 @@ The AI Travel Assistant is a Streamlit-powered web application that provides AI-
 ## Deployment URL : 
 https://destinationdynamoai.streamlit.app/
 
-## Screenshot :
-![Image](https://github.com/user-attachments/assets/5a4da8cd-9b18-4413-a47b-96f02a05e2d6)
-
 ## Features :
 
 🌍 AI-Powered Travel Recommendations: Uses LangChain with Google Gemini AI for generating travel suggestions.
