@@ -7,6 +7,7 @@ import os
 
 # ✅ Securely Fetch API Key from Streamlit Secrets
 load_dotenv()
+# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # ✅ Streamlit UI Configuration
